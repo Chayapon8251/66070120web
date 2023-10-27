@@ -39,7 +39,7 @@
     display: grid;
     place-items: center;
     position: absolute;
-    background-color: rgb(8, 224, 8);
+    background-color: rgba(22, 8, 212, 0.767);
     width: 3rem;
     border-radius: 9999px;
     height: 3rem;
