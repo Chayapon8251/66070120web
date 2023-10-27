@@ -19,6 +19,10 @@
     align-items: center;
     position: relative;
 }
+.on-hover:hover{
+    text-decoration: underline;
+    color: red;
+}
 .profile-img{
     display: flex;
     flex-direction: column;
